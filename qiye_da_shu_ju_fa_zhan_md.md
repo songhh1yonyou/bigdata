@@ -2,7 +2,7 @@
 > 
 > 作者：艾尚坤
 > 
-> 链接：
+> 链接：http:\/\/udn.yyuap.com\/doc\/train\/bigdata\/qiye\_da\_shu\_ju\_fa\_zhan\_md.html
 > 
 > 编辑:郭琪
 
