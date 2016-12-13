@@ -2,7 +2,7 @@
 > 
 > 作者：艾尚坤
 > 
-> 链接：
+> 链接：http:\/\/udn.yyuap.com\/doc\/train\/bigdata\/yongyou\_shang\_ye\_fen\_xi\_ying\_yong\_fang\_an\_ti\_xi\_md.html
 > 
 > 编辑:郭琪
 
