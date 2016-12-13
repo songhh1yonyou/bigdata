@@ -1,10 +1,10 @@
->来自：用友技术学院
-
->作者：艾尚坤
-
->连接：
-
->编辑:郭琪
+> 来自：用友技术学院
+> 
+> 作者：艾尚坤
+> 
+> 链接：http:\/\/udn.yyuap.com\/doc\/train\/bigdata\/yidong\_bq\_md.html
+> 
+> 编辑:郭琪
 
 # 移动BQ
 
@@ -12,11 +12,7 @@
 
 BQ Mobile产品包括BQ Mobile App手机客户端（IOS和安卓平台），BQ Mobile Server移动分析服务器。
 
-
 ## 特点：
 
-
-
 具有部署简单、多端运行、灵活权限控制的特点。
-
 
