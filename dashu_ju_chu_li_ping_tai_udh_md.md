@@ -2,7 +2,7 @@
 > 
 > 作者：艾尚坤
 > 
-> 连接：http:\/\/udn.yyuap.com\/doc\/train\/bigdata\/dashu\_ju\_chu\_li\_ping\_tai\_udh\_md.html
+> 链接：http:\/\/udn.yyuap.com\/doc\/train\/bigdata\/dashu\_ju\_chu\_li\_ping\_tai\_udh\_md.html
 > 
 > 编辑:郭琪
 
