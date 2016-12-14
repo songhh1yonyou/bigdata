@@ -2,9 +2,9 @@
 > 
 > 作者：艾尚坤
 > 
-> 链接：http:\/\/udn.yyuap.com\/doc\/train\/bigdata\/ziyou\_bao\_biao\_md.html
+> 链接：http://udn.yyuap.com/doc/train/bigdata/ziyou_bao_biao_md.html
 > 
-> 编辑:郭琪
+> 编辑: 郭琪
 
 # 自由报表
 
