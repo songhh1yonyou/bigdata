@@ -2,7 +2,7 @@
 > 
 > 作者：艾尚坤
 > 
-> 链接：http:\/\/udn.yyuap.com\/doc\/train\/bigdata\/chixu\_ti\_gao\_qi\_ye\_fen\_xi\_jue\_ce\_neng\_li\_md.html
+> 链接：http://udn.yyuap.com/doc/train/bigdata/chixu_ti_gao_qi_ye_fen_xi_jue_ce_neng_li_md.html
 > 
 > 编辑:郭琪
 
