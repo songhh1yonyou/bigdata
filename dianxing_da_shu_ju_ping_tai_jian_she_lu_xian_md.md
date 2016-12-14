@@ -2,9 +2,9 @@
 > 
 > 作者：艾尚坤
 > 
-> 链接：http:\/\/udn.yyuap.com\/doc\/train\/bigdata\/dianxing\_da\_shu\_ju\_ping\_tai\_jian\_she\_lu\_xian\_md.html
+> 链接：http://udn.yyuap.com/doc/train/bigdata/dianxing_da_shu_ju_ping_tai_jian_she_lu_xian_md.html
 > 
-> 编辑:郭琪
+> 编辑: 郭琪
 
 # 典型大数据平台建设路线
 
