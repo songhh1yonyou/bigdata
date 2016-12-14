@@ -4,7 +4,7 @@
 > 
 > 链接：http://udn.yyuap.com/doc/train/bigdata/chapter1.html
 > 
-> 编辑:郭琪
+> 编辑: 郭琪
 
 # 企业数据范畴的延伸
 
