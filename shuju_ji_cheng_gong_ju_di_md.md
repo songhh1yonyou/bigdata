@@ -2,9 +2,9 @@
 > 
 > 作者：艾尚坤
 > 
-> 链接：http:\/\/udn.yyuap.com\/doc\/train\/bigdata\/shuju\_ji\_cheng\_gong\_ju\_di\_md.html
+> 链接：http://udn.yyuap.com/doc/train/bigdata/shuju_ji_cheng_gong_ju_di_md.html
 > 
-> 编辑:郭琪
+> 编辑: 郭琪
 
 # 数据集成工具DI
 
