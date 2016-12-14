@@ -2,9 +2,9 @@
 > 
 > 作者：艾尚坤
 > 
-> 链接：http:\/\/udn.yyuap.com\/doc\/train\/bigdata\/shuju\_jia\_su\_yin\_qing\_ae\_md.html
+> 链接：http://udn.yyuap.com/doc/train/bigdata/shuju_jia_su_yin_qing_ae_md.html
 > 
-> 编辑:郭琪
+> 编辑: 郭琪
 
 # 数据加速引擎AE
 
