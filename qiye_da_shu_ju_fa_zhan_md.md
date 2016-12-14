@@ -2,9 +2,9 @@
 > 
 > 作者：艾尚坤
 > 
-> 链接：http:\/\/udn.yyuap.com\/doc\/train\/bigdata\/qiye\_da\_shu\_ju\_fa\_zhan\_md.html
-> 
-> 编辑:郭琪
+> 链接：http://udn.yyuap.com/doc/train/bigdata/qiye_da_shu_ju_fa_zhan_md.html
+
+> 编辑: 郭琪
 
 # 企业大数据发展
 
