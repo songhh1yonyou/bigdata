@@ -2,7 +2,7 @@
 > 
 > 作者：艾尚坤
 > 
-> 链接：http:\/\/udn.yyuap.com\/doc\/train\/bigdata\/chapter1.html
+> 链接：http://udn.yyuap.com/doc/train/bigdata/chapter1.html
 > 
 > 编辑:郭琪
 
