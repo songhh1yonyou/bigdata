@@ -2,9 +2,9 @@
 > 
 > 作者：艾尚坤
 > 
-> 链接：http:\/\/udn.yyuap.com\/doc\/train\/bigdata\/dashu\_ju\_chu\_li\_ping\_tai\_udh\_md.html
+> 链接：http://udn.yyuap.com/doc/train/bigdata/dashu_ju_chu_li_ping_tai_udh_md.html
 > 
-> 编辑:郭琪
+> 编辑: 郭琪
 
 # 大数据处理平台UDH
 
