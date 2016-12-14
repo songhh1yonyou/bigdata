@@ -2,9 +2,9 @@
 > 
 > 作者：艾尚坤
 > 
-> 链接：http:\/\/udn.yyuap.com\/doc\/train\/bigdata\/shangye\_fen\_xi\_ping\_tai\_md.html
+> 链接：http://udn.yyuap.com/doc/train/bigdata/shangye_fen_xi_ping_tai_md.html
 > 
-> 编辑:郭琪
+> 编辑: 郭琪
 
 # 商业分析平台
 
