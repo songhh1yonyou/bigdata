@@ -4,7 +4,7 @@
 > 
 > 作者：艾尚坤
 > 
-> 链接：http:\/\/udn.yyuap.com\/doc\/train\/bigdata\/
+> 链接：http://udn.yyuap.com/doc/train/bigdata/
 > 
 > 编辑:郭琪
 
