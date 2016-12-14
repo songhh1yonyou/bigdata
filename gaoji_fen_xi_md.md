@@ -2,9 +2,9 @@
 > 
 > 作者：艾尚坤
 > 
-> 链接：http:\/\/udn.yyuap.com\/doc\/train\/bigdata\/gaoji\_fen\_xi\_md.html
+> 链接：http://udn.yyuap.com/doc/train/bigdata/gaoji_fen_xi_md.html
 > 
-> 编辑:郭琪
+> 编辑: 郭琪
 
 # 高级分析
 
