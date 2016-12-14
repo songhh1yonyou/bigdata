@@ -2,9 +2,9 @@
 > 
 > 作者：艾尚坤
 > 
-> 链接：http:\/\/udn.yyuap.com\/doc\/train\/bigdata\/yidong\_bq\_md.html
+> 链接：http://udn.yyuap.com/doc/train/bigdata/yidong_bq_md.html
 > 
-> 编辑:郭琪
+> 编辑: 郭琪
 
 # 移动BQ
 
