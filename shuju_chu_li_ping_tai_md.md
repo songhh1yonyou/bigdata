@@ -2,9 +2,9 @@
 > 
 > 作者：艾尚坤
 > 
-> 链接：http:\/\/udn.yyuap.com\/doc\/train\/bigdata\/shuju\_chu\_li\_ping\_tai\_md.html
+> 链接：http://udn.yyuap.com/doc/train/bigdata/shuju_chu_li_ping_tai_md.html
 > 
-> 编辑:郭琪
+> 编辑: 郭琪
 
 # 数据处理平台
 
