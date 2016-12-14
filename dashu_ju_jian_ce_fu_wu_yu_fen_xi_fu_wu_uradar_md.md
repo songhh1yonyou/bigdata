@@ -2,9 +2,9 @@
 > 
 > 作者：艾尚坤
 > 
-> 链接：http:\/\/udn.yyuap.com\/doc\/train\/bigdata\/dashu\_ju\_jian\_ce\_fu\_wu\_yu\_fen\_xi\_fu\_wu\_uradar\_md.html
+> 链接：http://udn.yyuap.com/doc/train/bigdata/dashu_ju_jian_ce_fu_wu_yu_fen_xi_fu_wu_uradar_md.html
 > 
-> 编辑:郭琪
+> 编辑: 郭琪
 
 # 大数据监测服务与分析服务Uradar
 
