@@ -2,9 +2,9 @@
 > 
 > 作者：艾尚坤
 > 
-> 链接：http:\/\/udn.yyuap.com\/doc\/train\/bigdata\/yongyou\_shang\_ye\_fen\_xi\_ying\_yong\_fang\_an\_ti\_xi\_md.html
+> 链接：http://udn.yyuap.com/doc/train/bigdata/yongyou_shang_ye_fen_xi_ying_yong_fang_an_ti_xi_md.html
 > 
-> 编辑:郭琪
+> 编辑: 郭琪
 
 # 用友商业分析应用方案体系
 
